@@ -8,6 +8,6 @@ spec:
   issuerRef:
     name: kubeflow-self-signing-issuer
     kind: ClusterIssuer
-  commonName: kubeflow-qa.platform.cargoxcloud.net
+  commonName: kubeflow.platform-qa.cargoxcloud.net
   dnsNames:
-    - kubeflow-qa.platform.cargoxcloud.net
+    - kubeflow.platform-qa.cargoxcloud.net
