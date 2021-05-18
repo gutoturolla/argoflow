@@ -24,7 +24,7 @@ data:
       # FIXME: Use hashFromEnv instead
       username: user
       userID: "15841185641784"
-    -email: augusto.turolla@cargox.com.br
+    - email: augusto.turolla@cargox.com.br
       hash: $2b$10$xbfNM2drBHb9qQ573Yr50eLaGpgSrJpo91iYaPpwkdq1hRk7VFLHW
       username: augusto.turolla
     staticClients:
