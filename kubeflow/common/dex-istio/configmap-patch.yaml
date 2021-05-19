@@ -27,6 +27,9 @@ data:
     - email: augusto.turolla@cargox.com.br
       hash: $2b$10$fLGk80mwymUqxU5zU21P5O96lP/Pl4/JTBMATJpeuJ6rVvqXaxf9S
       username: augusto.turolla
+    - email: iuri.zambotto@cargox.com.br
+      hash: $2y$12$4K/VkmDd1q1Orb3xAt82zu8gk7Ad6ReFR4LCP9UeYE90NLiN9Df72
+      username: iuri.zambotto
     staticClients:
     # https://github.com/dexidp/dex/pull/1664
     - idEnv: OIDC_CLIENT_ID
